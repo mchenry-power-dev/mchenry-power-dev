@@ -1,16 +1,58 @@
-## Hi there 👋
+# McHenry Power
 
-<!--
-**mchenry-power-dev/mchenry-power-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Builder across AI, data, automation, analytics, and software.
 
-Here are some ideas to get you started:
+I build systems that turn business problems into working products — from enterprise analytics and workflow automation to web applications, AI-enabled systems, and digital commerce platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently a **Senior Business Intelligence Developer at Link Logistics** and **Founder of eCOM Enterprises**, where I work across analytics engineering, automation, software development, and ecommerce technology.
+
+## What I Build
+
+- **🧠 AI & Agentic Systems** — intelligent workflows, orchestration, monitoring, summarization, and decision-support systems
+- **📊 Data & Analytics Products** — semantic models, enterprise BI applications, operational analytics, and automated reporting
+- **⚙️ Software & Internal Tools** — web applications, workflow tools, product prototypes, and business-facing software
+- **🔁 Automation** — Power Automate, system integrations, notifications, scheduled workflows, and operational processes
+- **🏪 Digital Commerce** — Shopify development, subscription systems, conversion optimization, analytics, and growth infrastructure
+
+## Selected Work
+
+### 💫 Loom™
+**Subscription Commerce Platform**
+
+A Shopify subscription platform supporting selling-plan management, recurring and prepaid subscription models, fulfillment scheduling, contract operations, analytics, and merchant tooling.
+
+`TypeScript` `Shopify` `GraphQL` `Product Engineering`
+
+---
+
+### 🪐 Orbit™
+**Agentic Commerce OS**
+
+An agentic ecommerce architecture designed to connect commerce, advertising, creative, analytics, and customer systems into continuous feedback loops — observe → reason → act → learn → repeat.
+
+`AI Agents` `Automation` `Ecommerce` `Systems Architecture`
+
+---
+
+### 📊 Enterprise Analytics & Automation
+
+Building enterprise data products that combine semantic modeling, Power BI, workflow automation, operational risk prioritization, automated alerts, and executive intelligence.
+
+`Power BI` `SQL` `Snowflake` `Power Automate` `DAX`
+
+> Additional public case studies and reference implementations are currently being added.
+
+## Core Technologies
+
+**Data & Analytics**  
+Power BI · DAX · SQL · Snowflake · Databricks · dbt · Excel
+
+**Software & Automation**  
+Python · TypeScript · JavaScript · Power Automate · Shopify
+
+**Current Focus**  
+Agentic AI · Analytics Engineering · Internal Tools · Automation · Data Products · Digital Commerce
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mchenry-j-power-mba)
