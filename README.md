@@ -28,7 +28,7 @@ A Shopify subscription platform supporting selling-plan management, recurring an
 ### 🪐 Orbit™
 **Agentic Commerce OS**
 
-An agentic ecommerce architecture designed to connect commerce, advertising, creative, analytics, and customer systems into continuous feedback loops — observe → reason → act → learn → repeat.
+An agentic ecommerce platform that orchestrates commerce, advertising, creative, analytics, and customer systems through continuous feedback loops: observe → reason → act → learn → repeat.
 
 `AI Agents` `Automation` `Ecommerce` `Systems Architecture`
 
