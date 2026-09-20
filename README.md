@@ -16,7 +16,7 @@ Currently a **Senior Business Intelligence Developer at Link Logistics** and **F
 
 ## Selected Work
 
-### 💫 Loom™
+### 🪡 Loom™
 **Subscription Commerce Platform**
 
 A Shopify subscription platform supporting selling-plan management, recurring and prepaid subscription models, fulfillment scheduling, contract operations, analytics, and merchant tooling.
