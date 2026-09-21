@@ -28,9 +28,18 @@ A Shopify subscription platform supporting selling-plan management, recurring an
 ### 🪐 Orbit™
 **Agentic Commerce OS**
 
-An agentic ecommerce platform that orchestrates commerce, advertising, creative, analytics, and customer systems through continuous feedback loops: observe → reason → act → learn → repeat.
+An agentic ecommerce management platform that orchestrates commerce, advertising, creative, analytics, and customer systems through continuous feedback loops: observe → reason → act → learn → repeat.
 
 `AI Agents` `Automation` `Ecommerce` `Systems Architecture`
+
+---
+
+### ⚒️ FORGE™
+**Agentic Venture Launch Platform**
+
+A 0→1 platform that turns a business concept into a launch-ready digital operation in a single workday — assembling storefront, administration, payments, customer workflows, marketing infrastructure, analytics, automation, and AI-enabled operating systems from a reusable foundation.
+
+`Agentic AI` `Automation` `Commerce` `GTM Systems` `Systems Architecture`
 
 ---
 
