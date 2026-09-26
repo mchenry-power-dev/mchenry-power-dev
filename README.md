@@ -12,7 +12,7 @@ Currently a **Senior Business Intelligence Developer at Link Logistics** and **F
 - **📊 Data & Analytics Products** — semantic models, enterprise BI applications, operational analytics, and automated reporting
 - **⚙️ Software & Internal Tools** — web applications, workflow tools, product prototypes, and business-facing software
 - **🔁 Automation** — Power Automate, system integrations, notifications, scheduled workflows, and operational processes
-- **🏪 Digital Commerce** — Shopify development, subscription systems, conversion optimization, analytics, and growth infrastructure
+- **💸 Digital Commerce** — Shopify development, subscription systems, conversion optimization, analytics, and growth infrastructure
 
 ## Selected Work
 
