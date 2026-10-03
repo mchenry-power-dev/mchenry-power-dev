@@ -9,14 +9,14 @@ Currently a **Senior Business Intelligence Developer at Link Logistics** and **F
 ## What I Build
 
 - **🧠 AI & Agentic Systems** — intelligent workflows, orchestration, monitoring, summarization, and decision-support systems
-- **📊 Data & Analytics Products** — semantic models, enterprise BI applications, operational analytics, and automated reporting
+- **📊 BI & Analytics Products** — semantic models, enterprise BI applications, operational analytics, and automated reporting
 - **⚙️ Software & Internal Tools** — web applications, workflow tools, product prototypes, and business-facing software
 - **🔁 Automation** — Power Automate, system integrations, notifications, scheduled workflows, and operational processes
 - **💸 Digital Commerce** — Shopify development, subscription systems, conversion optimization, analytics, and growth infrastructure
 
 ## Selected Work
 
-### 🪡 Loom™
+### 🪡 [Loom™](https://github.com/mchenry-power-dev/loom-public)
 **Subscription Commerce Platform**
 
 A Shopify subscription platform supporting selling-plan management, recurring and prepaid subscription models, fulfillment scheduling, contract operations, analytics, and merchant tooling.
@@ -25,12 +25,14 @@ A Shopify subscription platform supporting selling-plan management, recurring an
 
 ---
 
-### 🐈‍⬛ [Cosmic Cat Coffee Co.](https://github.com/mchenry-power-dev/cosmic-cat-commerce-lab)
+### <img src="https://cosmiccatcoffeeco.com/cdn/shop/files/Cosmic_Cat_Logo_No_Background.png?v=1725676682&width=80" width="30" alt="Cosmic Cat Coffee Co.®" /> [Cosmic Cat Coffee®](https://github.com/mchenry-power-dev/cosmic-cat-commerce-lab)
 **Production Commerce Lab**
 
 A live DTC + wholesale business used as customer zero for subscription-commerce validation, AI-assisted creative and storefront experiments, analytics, automation, and in-development agentic ecommerce architecture.
 
 `Shopify` `Commerce Systems` `AI / Automation` `Analytics` `Experimentation`
+
+[Live store](https://cosmiccatcoffeeco.com/?utm_source=github_mchenry-power-dev_readme/)
 
 ---
 
@@ -54,9 +56,12 @@ A 0→1 platform that turns a business concept into a launch-ready digital opera
 
 ---
 
-### 📊 Enterprise Analytics & Automation
+### 📊 Enterprise IQ™
+**Unified Enterprise Analytics & Intelligence Platform**
 
-Building enterprise data products that combine semantic modeling, Power BI, workflow automation, operational risk prioritization, automated alerts, and executive intelligence.
+A single enterprise workspace that brings BI, data, documentation, and operational systems together across platforms like Power BI, Looker, Snowflake, Databricks, Confluence, and SharePoint.
+
+Enterprise IQ™ gives end users one place to discover reports, access analytics, review documentation, and work across otherwise disconnected systems — while a custom LLM can reason across the combined context instead of being isolated inside any single platform.
 
 `Power BI` `SQL` `Snowflake` `Power Automate` `DAX`
 
