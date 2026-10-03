@@ -25,6 +25,15 @@ A Shopify subscription platform supporting selling-plan management, recurring an
 
 ---
 
+### 🐈‍⬛ [Cosmic Cat Coffee Co.](https://github.com/mchenry-power-dev/cosmic-cat-commerce-lab)
+**Production Commerce Lab**
+
+A live DTC + wholesale business used as customer zero for subscription-commerce validation, AI-assisted creative and storefront experiments, analytics, automation, and in-development agentic ecommerce architecture.
+
+`Shopify` `Commerce Systems` `AI / Automation` `Analytics` `Experimentation`
+
+---
+
 ### 🪐 Orbit™
 **Agentic Commerce OS**
 
