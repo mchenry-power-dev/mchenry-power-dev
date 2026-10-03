@@ -63,7 +63,7 @@ A single enterprise workspace that brings BI, data, documentation, and operation
 
 Enterprise IQ™ gives end users one place to discover reports, access analytics, review documentation, and work across otherwise disconnected systems — while a custom LLM can reason across the combined context instead of being isolated inside any single platform.
 
-`Power BI` `SQL` `Snowflake` `Power Automate` `DAX`
+`Power BI` `Looker` `Snowflake` `Databricks` `Confluence` `SharePoint` `LLM` `Enterprise Analytics`
 
 > Additional public case studies and reference implementations are currently being added.
 
