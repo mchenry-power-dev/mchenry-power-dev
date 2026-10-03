@@ -34,12 +34,14 @@ A live DTC + wholesale business used as customer zero for subscription-commerce 
 
 ---
 
-### 🪐 Orbit™
+### 🪐 [Orbit™](https://github.com/mchenry-power-dev/orbit-agentic-commerce)
 **Agentic Commerce OS**
 
-An agentic ecommerce management platform that orchestrates commerce, advertising, creative, analytics, and customer systems through continuous feedback loops: observe → reason → act → learn → repeat.
+A working public reference for Orbit Studio: campaign briefs → coordinated creative drafts → merchant review → approved ZIP export, with typed orchestration, validation, and version-specific approvals. Sample data and simulated providers; production integrations remain future work.
 
-`AI Agents` `Automation` `Ecommerce` `Systems Architecture`
+[Live demo](https://mchenry-power-dev.github.io/orbit-agentic-commerce/)
+
+`TypeScript` `React` `Workflow Orchestration` `Ecommerce` `Systems Architecture`
 
 ---
 
