@@ -23,7 +23,7 @@ A unified enterprise workspace for discovering and viewing analytics, running go
 
 Enterprise IQ™ is designed to give organizations one place to work with intelligence while also enabling customizable user experiences and event-based journey analytics across reports, queries, documentation, and guided investigation workflows.
 
-[Repository](https://github.com/mchenry-power-dev/enterprise-iq)
+[Repository](https://github.com/mchenry-power-dev/enterprise-iq) · [Live demo](https://mchenry-power-dev.github.io/enterprise-iq/)
 
 `Power BI` `Looker` `Snowflake` `Databricks` `Confluence` `SharePoint` `Enterprise Analytics` `Data Products`
 
